@@ -90,3 +90,15 @@ O sistema organiza:
 A automação transforma dados brutos em uma base pronta para prospecção comercial.
 
 ![Google Sheets](print%20sheets.png)
+
+
+## Automação WhatsApp
+
+### Início automatizado de contato
+
+Exemplo da geração automática de conversas no WhatsApp utilizando links criados pelo fluxo de automação.
+
+O sistema transforma contatos comerciais coletados em conversas prontas para abordagem, acelerando o processo de prospecção.
+
+
+![Google Sheets](print%20whatzap.png)
