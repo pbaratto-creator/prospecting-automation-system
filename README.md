@@ -100,5 +100,5 @@ Exemplo da geração automática de conversas no WhatsApp utilizando links criad
 
 O sistema transforma contatos comerciais coletados em conversas prontas para abordagem, acelerando o processo de prospecção.
 
-
+![Google Sheets](print%20whatzap1.png)
 ![Google Sheets](print%20whatzap.png)
