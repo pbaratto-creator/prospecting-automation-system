@@ -69,3 +69,24 @@ Automação, scraping, integração entre APIs e pipelines de prospecção comer
 Fluxo principal responsável pela coleta e organização automática dos leads.
 
 ![Fluxo da automação](make%20estrutura.png)
+
+
+## Google Sheets Output
+
+### Organização automática dos leads
+
+Exemplo da estrutura gerada automaticamente no Google Sheets após o processamento dos dados coletados.
+
+O sistema organiza:
+
+- nome da empresa
+- nicho
+- cidade
+- telefone
+- website
+- link direto de WhatsApp
+- status do lead
+
+A automação transforma dados brutos em uma base pronta para prospecção comercial.
+
+![Google Sheets](print%sheets.png)
