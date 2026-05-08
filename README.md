@@ -60,3 +60,12 @@ WhatsApp Links
 ## Objetivo do Projeto
 
 Automação, scraping, integração entre APIs e pipelines de prospecção comercial.
+
+
+## Screenshots
+
+### Fluxo da automação
+
+Fluxo principal responsável pela coleta e organização automática dos leads.
+
+![Fluxo da automação](make%20estrutura.png)
