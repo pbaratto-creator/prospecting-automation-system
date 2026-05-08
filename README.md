@@ -1,65 +1,58 @@
 # Sistema de Automação de Prospecção
 
-Fluxo automatizado para geração de leads comerciais utilizando Google Maps, Apify, Make e Google Sheets.
+Sistema de automação para geração e organização de leads comerciais utilizando Google Maps, Apify, Make e Google Sheets.
+
+O projeto automatiza a coleta de empresas, organização dos dados e geração de contatos rápidos via WhatsApp para prospecção comercial.
 
 ---
 
-## Funcionalidades
+# Funcionalidades Atuais
 
 - Extração automatizada de empresas
-- Filtro por nicho e localização
-- Organização automática em Google Sheets
+- Busca por nicho e localização
+- Organização automática dos leads em Google Sheets
 - Geração automática de links de WhatsApp
-- Pipeline de prospecção automatizado
-- Estrutura preparada para futuras automações
+- Abertura semi automática de conversa com mensagem pré-preenchida
+- Pipeline automatizado de prospecção comercial
+- Estrutura modular para futuras automações
 
 ---
 
-## Arquitetura Atual
+# Arquitetura Atual
 
-Apify
-↓
-Make
-↓
-Google Sheets
-↓
-WhatsApp Links
+Apify  
+↓  
+Make  
+↓  
+Google Sheets  
+↓  
+WhatsApp Automation
 
 ---
 
-## Stack Utilizada
+# Stack Utilizada
 
 - Apify
 - Make
 - Google Sheets
 - Google Maps Scraping
+- WhatsApp Links Automation
 
 ---
 
-## Fluxo do Sistema
+# Fluxo do Sistema
 
 1. Busca empresas por nicho e cidade
-2. Extrai dados comerciais
-3. Organiza os leads automaticamente
-4. Gera links rápidos de WhatsApp
-5. Facilita contato comercial em escala
+2. Extrai dados comerciais automaticamente
+3. Organiza os leads no Google Sheets
+4. Gera links automáticos de contato via WhatsApp
+5. Preenche mensagens automaticamente para prospecção
 
 ---
 
-## Melhorias Futuras
+# Objetivo do Projeto
 
-- [ ] Migração do scraping para Python
-- [ ] Mini CRM
-- [ ] Controle de status dos leads
-- [ ] Automação de follow-up
-- [ ] Dashboard
-- [ ] Integração com IA
-
----
-
-## Objetivo do Projeto
-
-Automação, scraping, integração entre APIs e pipelines de prospecção comercial.
+O objetivo do projeto é aplicar automação, integração entre plataformas, scraping de dados comerciais e construção de pipelines de prospecção automatizada.
 
 
 ## Screenshots
@@ -102,3 +95,15 @@ O sistema transforma contatos comerciais coletados em conversas prontas para abo
 
 ![Google Sheets](print%20whatzap1.png)
 ![Google Sheets](print%20whatzap.png)
+
+
+# Possiveis melhorias Futuras
+
+- [ ] Migração parcial ou total para Python
+- [ ] Mini CRM integrado
+- [ ] Controle de status dos leads
+- [ ] Dashboard de métricas
+- [ ] Follow-up automatizado
+- [ ] Integração com APIs oficiais do WhatsApp
+- [ ] Segmentação avançada de leads
+- [ ] Integração com IA para qualificação de leads
