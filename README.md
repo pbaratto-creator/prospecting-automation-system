@@ -89,4 +89,4 @@ O sistema organiza:
 
 A automação transforma dados brutos em uma base pronta para prospecção comercial.
 
-![Google Sheets](print%sheets.png)
+![Google Sheets](print%20sheets.png)
